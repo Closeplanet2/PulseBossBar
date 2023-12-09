@@ -1,0 +1,6 @@
+name: PulseBossBar
+version: 1.0.0-a
+main: com.pandapulsestudios.pulsebossbar.PulseBossBar
+depend: [PulseCore, PulseConfig]
+authors: [Closeplanet2, PandaPulseStudios]
+api-version: 1.20
